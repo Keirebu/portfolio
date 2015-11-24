@@ -1,0 +1,26 @@
+ <div class="header-outer-container">
+        
+        <header>
+            
+            <h1>C STONE Portfolio</h1>
+            
+            <nav>
+                <ul>
+                    <li class="home">Home</li>
+                    <li class="clients">Clients</li>
+                    <li class="profile">Profile</li>
+                    <li class="contact">contact</li>
+                </ul>
+            </nav>
+            
+        </header>
+        
+        
+        
+            <div class="main-outer-container">
+        <section class="main">
+            
+            <h1>Creating a web presence for your business that exists</h1>
+            
+        </section>
+    </div>
