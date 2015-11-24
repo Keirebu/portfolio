@@ -38,7 +38,7 @@
                 
                     <img class="cone" src="images/cone.svg" alt="flat traffic cone">
                 
-                    <p class="count-title">work underway</p>
+                    <p class="count-title">There is no more work underway</p>
 
                     <div class="timer">
                         <p class="days">00</p>
